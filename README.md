@@ -1,2 +1,2 @@
-# automa-o-com-VBA
+# automacao-com-VBA
 Envio de e-mails e invites no Teams com macro VBA
